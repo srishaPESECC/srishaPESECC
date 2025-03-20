@@ -22,7 +22,7 @@ Here are the skills I want to develop in the future:
 * Computer Networkong
 * Compiler Design
 
-All my social media handles relavant to tech can be found in the sidebar.
+All my social media handles relavant to tech can be found in the sidebar. (Except [this](https://news.ycombinator.com/user?id=Srisha).)
 
 I am a technology enthusiast who loves tinkering, exploring and breaking things. But off-late I have embraced the process of creation too.
 (Ignore my username btw, I'm too lazy to change it..)
