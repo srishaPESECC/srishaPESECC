@@ -5,22 +5,22 @@ It's tough to write something attention-grabbing about myself, but here I go, ma
 I am currently in doing my Bachelor of Engineering in Computer Science.
 
 Here are my current skills:
-*Python
-*MySQL
-  *numpy, pandas, matplotlib, sklearn,
-*C
+* Python
+* MySQL
+  * numpy, pandas, matplotlib, sklearn,
+* C
 * bash
-*Dart
-*MATLAB
+* Dart
+* MATLAB
 
 Here are the skills I want to develop in the future:
 * Operating Systems
-*Java
-*HTML, CSS, JS,
-*Linux kernel modules
-*Verilog, TL-Verilog
-*Computer Networkong
-*Compiler Design
+* Java
+* HTML, CSS, JS,
+* Linux kernel modules
+* Verilog, TL-Verilog
+* Computer Networkong
+* Compiler Design
 
 All my social media handles relavant to tech can be found in the sidebar.
 
